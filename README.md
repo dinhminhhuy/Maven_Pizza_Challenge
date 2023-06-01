@@ -1,5 +1,5 @@
 # Maven_Pizza_Challenge
-This is a personal project that uses Power BI to visualize data in the form of charts and answer 4 question using Python. Then, I will analyze those charts to get insights to offer some advises for business owner.
+This is a personal project that uses Power BI to visualize data in the form of charts and answer 4 questions using Python. Then, I will analyze those charts to get insights to offer some advises for business owner.
 
 ## 1. About the dataset
 This dataset contains 4 tables in CSV format:
